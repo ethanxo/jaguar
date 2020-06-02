@@ -1,0 +1,9 @@
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\Release\Jaguar.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\Release\Jaguar.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Jaguar\Jaguar\bin\Release\Jaguar.exe.config
+C:\Users\ethan\source\repos\Jaguar\Jaguar\bin\Release\Jaguar.exe
+C:\Users\ethan\source\repos\Jaguar\Jaguar\bin\Release\Jaguar.pdb
+C:\Users\ethan\source\repos\Jaguar\Jaguar\bin\Release\Anarchy.dll
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\Release\Jaguar.csproj.CopyComplete
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\Release\Jaguar.exe
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\Release\Jaguar.pdb

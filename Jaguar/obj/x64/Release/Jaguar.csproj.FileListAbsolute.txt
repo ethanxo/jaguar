@@ -1,0 +1,9 @@
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\x64\Release\Jaguar.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\x64\Release\Jaguar.csproj.CopyComplete
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\x64\Release\Jaguar.exe
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\x64\Release\Jaguar.pdb
+C:\Users\ethan\source\repos\Jaguar\Jaguar.exe.config
+C:\Users\ethan\source\repos\Jaguar\Jaguar.exe
+C:\Users\ethan\source\repos\Jaguar\Jaguar.pdb
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\x64\Release\Jaguar.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Jaguar\Jaguar\obj\x64\Release\Jaguar.csproj.Fody.CopyLocal.cache
