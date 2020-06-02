@@ -1,5 +1,5 @@
 # Jaguar
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![star this repo](http://githubbadges.com/star.svg?user=boennemann&repo=badges&style=flat)](https://github.com/boennemann/badges)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![star this repo](http://githubbadges.com/star.svg?user=boennemann&repo=badges&style=flat)](https://github.com/boennemann/badges)
 [![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/boennemann/badges/fork)
 - Uses $ as a prefix (customizable)
 - Only responds on input from logged in client
