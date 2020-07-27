@@ -1,5 +1,5 @@
 # Jaguar
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![star this repo](https://githubbadges.com/star.svg?user=ethanxo&repo=jaguar&style=flat)](https://github.com/ethanxo/jaguar) [![fork this repo](https://githubbadges.com/fork.svg?user=ethanxo&repo=jaguar&style=flat)](https://github.com/ethanxo/jaguar/fork)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - Uses $ as a prefix (customizable)
 - Only responds on input from logged in client
 - Confirms execution (or not) and then deletes your message
